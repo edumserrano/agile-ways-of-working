@@ -229,6 +229,8 @@ Allen Holub will pinpoint where we've gone wrong and how to make it right. There
 [No estimates by Vasco Duarte - 67min video](https://www.youtube.com/watch?v=cgvB2wWvi8M).
 > Often we hear that estimating a project is a must. "We can't make decisions without them" we hear often. In this session I'll present examples of how we can predict a release date of a project without any estimates, only relying on easily available data.
 
+![Foo](assets/no-estimates-2.png)
+
 ## What should happen on a daily stand-up meeting?
 
 Whether or not you are doing Scrum this meeting is usual a staple on Agile development methodologies. [Do we need it? Why? And if so what should happen on this meeting?](https://holub.com/nostandups/)
