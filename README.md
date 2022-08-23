@@ -210,9 +210,10 @@ Allen Holub will pinpoint where we've gone wrong and how to make it right. There
 
 ## What value do estimations provide?
 
-> This keynote presents my (and many other's) thinking about #NoEstimates. It argues that estimation is a bad thing, particularly in the Agile world, and presents ways to plan that don't involve estimation.
+<a href="https://twitter.com/LeoDeNevi/status/1552767646772387841" rel="teams-self-organize">![Foo](assets/no-estimates.png)</a>
 
 [#NoEstimates (Allen Holub) - 37min video](https://www.youtube.com/watch?v=QVBlnCTu9Ms).
+> This keynote presents my (and many other's) thinking about #NoEstimates. It argues that estimation is a bad thing, particularly in the Agile world, and presents ways to plan that don't involve estimation.
 
 <details>
 <summary><strong>Some bookmarks</strong></summary>
@@ -228,7 +229,8 @@ Allen Holub will pinpoint where we've gone wrong and how to make it right. There
 
 </details>
 
-<a href="https://twitter.com/LeoDeNevi/status/1552767646772387841" rel="teams-self-organize">![Foo](assets/no-estimates.png)</a>
+[No estimates by Vasco Duarte - 67min video](https://www.youtube.com/watch?v=cgvB2wWvi8M).
+> Often we hear that estimating a project is a must. "We can't make decisions without them" we hear often. In this session I'll present examples of how we can predict a release date of a project without any estimates, only relying on easily available data.
 
 ## What should happen on a daily stand-up meeting?
 
