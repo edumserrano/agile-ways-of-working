@@ -25,10 +25,7 @@ This document is not meant to define what is good or bad in terms of Agile, but 
 
 When it comes to Agile, apart from the Agile Manifesto & Principles, all the information gathered here is a reflection on the author's opinions and experiences. Not a dogma to follow. Read this with a critical mind.
 
-This document paints a picture of Agile and is meant to be read and analyzed in its entirity, as opposed to picking and choosing parts. It consists of:
-
-- 10 articles
-- 4 videos totalling 165min
+This document paints a picture of Agile and is meant to be read and analyzed in its entirity, as opposed to picking and choosing parts.
 
 ## What is Agile
 
