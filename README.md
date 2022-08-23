@@ -177,16 +177,14 @@ The replacement of *real agility* with *fake agility*: [The Death of Agile (Alle
 
 ## Can we do Agile *right*?
 
+[War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020 - 45min video](https://www.youtube.com/watch?v=F42A3R28WMU)
 > A few years ago, the death of agile was a meme. Agile was (and is still) being supplanted by #DarkAgile, agile in name only, with few of the benefits of the real thing. In a way, things have gotten worse. Agile has arisen as a zombie, eating the brains of the corporate world. "Dark Agile" flies in the face of basic principles and does active damage.
 Allen Holub will pinpoint where we've gone wrong and how to make it right. There is a way out!
 
-[War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020 - 45min video](https://www.youtube.com/watch?v=F42A3R28WMU)
-
 ## Governing Agile Delivery
 
-> Agile development starts with small teams tackling small problems. After some initial successes the organisation gets more ambitious, and tries to get more teams tackling bigger problems. At some point these endeavours run headlong into finance and governance structures from a different era, designed with huge projects in mind, and it usually doesn’t end well.
-
 [Governing Agile Delivery • Dan North • GOTO 2018 - 47min video](https://www.youtube.com/watch?v=wG-zBVl0A4g)
+> Agile development starts with small teams tackling small problems. After some initial successes the organisation gets more ambitious, and tries to get more teams tackling bigger problems. At some point these endeavours run headlong into finance and governance structures from a different era, designed with huge projects in mind, and it usually doesn’t end well.
 
 <details>
 <summary><strong>Some bookmarks</strong></summary>
@@ -251,6 +249,7 @@ Whether or not you are doing Scrum this meeting is usual a staple on Agile devel
 
 ## How Big Tech Runs Tech Projects and the Curious Absence of Scrum
 
+[Project management in tech](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
 > A survey of how tech projects run across the industry highlights Scrum being absent from Big Tech.
 >
 > Project management is a topic most people have strong opinions on, and I’m no exception. To answer this question, I pulled in help from across the industry as well. In this issue we’ll cover:
@@ -262,5 +261,3 @@ Whether or not you are doing Scrum this meeting is usual a staple on Agile devel
 > - The lack of Scrum at Big Tech. Why is the popular framework missing from most of Big Tech, and are there takeaways for companies operating outside this model?
 >
 > - How should you run projects in your team? I’ll share my personal take.
-
-[Read more](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
